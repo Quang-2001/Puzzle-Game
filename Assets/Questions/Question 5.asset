@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e11b9dce11554c04f9ca1976d5e62339, type: 3}
+  m_Name: Question 5
+  m_EditorClassIdentifier: 
+  question: "B\u1ED1n c\xE2y c\u1ED9t d\u1EEBa hai c\xE2y \u0111inh s\u1EAFc .M\u1ED9t
+    c\xE1i \u0111ong \u0111\u01B0a m\u1ED9t c\xE1i ng\xFAc ngo\u1EAFc .H\u1ECFi l\xE0
+    con g\xEC?"
+  answers:
+  - "Con c\xE1o"
+  - "Con d\u01A1i"
+  - "Con kh\u1EC9"
+  - Con voi
+  correctAnswerIndex: 3
